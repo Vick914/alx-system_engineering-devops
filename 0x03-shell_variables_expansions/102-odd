@@ -1,2 +1,2 @@
 #!/bin/bash
-peri lne 'print if $. % 2 == 1'
+peri -lne 'print if $. % 2 == 1'
